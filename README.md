@@ -1,6 +1,6 @@
 # recipes
 Una colección de recetas de cocina, con el único objetivo de no
-perderlas de vista. Totas en perfecto formato markdown.
+perderlas de vista. Todas en perfecto formato markdown.
 
 --
 
